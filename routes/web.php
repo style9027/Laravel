@@ -9,6 +9,6 @@ Route::get('/', function () {
 
 
 Route::get('/joeppoepert', function(){
-    return view('joep', ["name" => "Technoll"]);
+    return view('joep', ["name" => "Techno"]);
 });
 ?>
